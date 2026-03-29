@@ -67,11 +67,22 @@ These are pre-installed in the Claude Code Cowork VM.
 
 ## Example usage
 
-After installing the skill, just tell Claude Code:
+Just describe what you want removed — Claude asks for the specifics, confirms the list, runs the redaction, and delivers a clean PDF plus a log of everything removed.
 
-> "Redact the names John Smith and Jane Doe from contract.pdf"
+**Redact names from a contract before sharing with a third party:**
+> "Remove the names Sarah Chen and David Okafor from this contract before I send it to the vendor."
 
-Claude will ask you to confirm the terms, run the redaction, verify the output, and deliver the cleaned PDF plus a redaction log.
+**Anonymize a report with employee addresses:**
+> "Strip all the home addresses from this HR report — I need a version I can share with the whole team."
+
+**Remove a company name from a competitive analysis:**
+> "Redact every mention of Acme Corp from this document."
+
+**Scrub multiple things at once:**
+> "This NDA has client names, their company, and their address. Remove all of it before I file it."
+
+**The skill also triggers on plain language** — you don't need to use the word "redact":
+> "Make this safe to send." &nbsp; · &nbsp; "Anonymize this." &nbsp; · &nbsp; "Hide the names." &nbsp; · &nbsp; "Block out the addresses."
 
 ## License
 
