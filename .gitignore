@@ -1,0 +1,15 @@
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# IDE
+.vscode/
+.idea/
+
+# Output files (redacted PDFs should not be committed)
+*_REDACTED.pdf
+*_redaction_log.txt
