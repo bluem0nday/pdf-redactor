@@ -1,4 +1,17 @@
-# PDF Redactor — Claude Code Skill
+<div align="center">
+
+# PDF Redactor
+
+### A Claude Code skill for true PDF redaction
+
+**The text is removed — not just covered up.**
+
+[![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+[![Version](https://img.shields.io/badge/version-3.2-brightgreen.svg)](../../releases/latest)
+[![Python](https://img.shields.io/badge/python-3-blue.svg)](https://www.python.org)
+[![Claude Code](https://img.shields.io/badge/Claude_Code-skill-blueviolet.svg)](https://claude.ai/code)
+
+</div>
 
 Permanently redact words and names from PDFs. Removes text directly from the PDF content stream — recipients cannot select, copy, search for, or recover redacted content.
 
