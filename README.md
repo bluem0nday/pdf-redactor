@@ -76,7 +76,7 @@ Just describe what you want removed — Claude asks for the specifics, confirms 
 > "Strip all the addresses from this HR report — I need a version I can share with the whole team."
 
 **Remove a company name from my competitive analysis:**
-> "Redact every mention of Tyrell Corporation from this document."
+> "Redact every mention of Tyrell Corporation from this PDF."
 
 **Scrub multiple things at once:**
 > "This NDA has client names, their company, and their address. Remove all of it before I file it."
