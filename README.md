@@ -13,7 +13,7 @@
 
 </div>
 
-Permanently redact words and names from PDFs. Removes text directly from the PDF content stream — recipients cannot select, copy, search for, or recover redacted content.
+Permanently redact words and names from PDFs. Removes text directly from the PDF content stream — recipients cannot select, copy, search for, or recover redacted content.   This is WIP for testing, not industrial strengh document security solution.  
 
 Built as a skill for [Claude Code](https://claude.ai/code).
 
