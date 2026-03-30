@@ -70,13 +70,13 @@ These are pre-installed in the Claude Code Cowork VM.
 Just describe what you want removed — Claude asks for the specifics, confirms the list, runs the redaction, and delivers a clean PDF plus a log of everything removed.
 
 **Redact names from a contract before sharing with someone:**
-> "Remove the names Dale Cooper and Audrey Horne everywhere they appear in this document before I send it to the vendor."
+> "Remove the names Agent Dale Cooper and Audrey Horne everywhere they appear in this document before I send it to the vendor."
 
 **Anonymize a report with employee addresses:**
 > "Strip all the addresses from this HR report — I need a version I can share with the whole team."
 
 **Remove a company name from my competitive analysis:**
-> "Redact every mention of Tyrell Corporation from this PDF."
+> "Redact every mention of Twin Peaks from this PDF."
 
 **Scrub multiple things at once:**
 > "This NDA has client names, their company, and their address. Remove all of it before I email it as a template."
