@@ -79,7 +79,7 @@ Just describe what you want removed — Claude asks for the specifics, confirms 
 > "Redact every mention of Tyrell Corporation from this PDF."
 
 **Scrub multiple things at once:**
-> "This NDA has client names, their company, and their address. Remove all of it before I file it."
+> "This NDA has client names, their company, and their address. Remove all of it before I email it as a template."
 
 **The skill also triggers on plain language — you don't need to use the word "redact":**
 > "Make this safe to send." &nbsp; · &nbsp; "Anonymize this." &nbsp; · &nbsp; "Hide the names." &nbsp; · &nbsp; "Block out the addresses."
